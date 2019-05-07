@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+* {
+    padding: 0;
+    margin: 0; 
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    padding-bottom: 40px;
+}
+.image {
+    padding-left: 100px;
+}
+.navigetion {
+    float: right;
+    padding-right: 100px;
+    margin-top: -55px;
+}
+.navigetion li {
+     list-style: none;
+}
+.navigetion li a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    list-style: none; 
+}
+ul li {
+    float: left;
+    padding-left: 20px;
+}
+.navigetion li a:hover{
+    color: darkred;
+    border-bottom: 3px solid black;
+}
+.course{
+    padding-left: 100px;
+    padding-top: 25px;
+}
+.For {
+    text-align: left;
+    padding-right: 1000px;
+}
+.Text {
+    text-align: initial; 
+}
+.box2 {
+  padding-left: 400px;
+  margin-top: -485px;
+}
+.Text2 {
+    text-align: justify;
+    padding-right: 600px;
+}
+.box3 {
+    padding-left: 800px;
+    margin-top: -485px;
+}
+.Text3 {
+    text-align: justify;
+    padding-right: 200px;
+}
+.hr1 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 800px;
+}
+.About {
+    padding-left: 100px;
+    padding-top: 5px;
+}
+.About1 {
+    text-align: justify;
+    padding-right: 700px;
+}
+.Dev {
+    float: right;
+    padding-right: 100px;
+    margin-top: -100px;
+}
+.hr2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 250px;
+    margin-bottom: 40px;
+    width: 800px;
+}
+.Contact{
+    padding-top: 25px;
+    padding-left: 100px;
+    background-color: #d9d9d9;
+}
+.form {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: green;
+}
+input {
+    padding: 15px 20px;
+    text-align: left;
+    margin-left: -10px;
+    width: 250px;
+}
+.font {
+    float: right;
+    padding-right: 100px;
+    padding-top: 10px;
+}
